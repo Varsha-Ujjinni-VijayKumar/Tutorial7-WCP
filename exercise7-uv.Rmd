@@ -1,7 +1,7 @@
 ---
 title: "Reproducible and Collaborative Practices"
 subtitle: "Tutorial-7"
-author: "Your Name"
+author: "Varsha Ujjinni Vijay Kumar"
 institute: "Department of Econometrics and Business Statistics"
 output:
 pdf_document:
