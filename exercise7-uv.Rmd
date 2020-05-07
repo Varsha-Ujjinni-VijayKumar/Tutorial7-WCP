@@ -27,7 +27,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r cars}
-summary(cars)
-```
-
+#Introduction
+This ia an intro
