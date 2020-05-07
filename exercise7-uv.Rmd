@@ -12,13 +12,18 @@ highlight: tango
 header-includes:
 - \usepackage{titling}
 - \pretitle{\begin{center}
+<<<<<<< HEAD
 \includegraphics[width=5in,height=13in]{figs/figure1.jpg}
+=======
+\includegraphics[width=5in,height=13in]{figs/front.jpg}
+>>>>>>> 24f6e7e767f618a55d76920560856003c065cf38
 - \posttitle{\end{center}}
 - \usepackage{fontawesome}
 - \usepackage[most]{tcolorbox}
 - \usepackage{xcolor}
 - \usepackage{sectsty}
 - \sectionfont{\color{olive}}
+<<<<<<< HEAD
 - \usepackage{verbatim}
 ---
 
@@ -31,3 +36,6 @@ knitr::opts_chunk$set(echo = TRUE)
 summary(cars)
 ```
 
+=======
+- \usepackage{verbatim}
+>>>>>>> 24f6e7e767f618a55d76920560856003c065cf38
